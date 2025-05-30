@@ -1,0 +1,26 @@
+
+
+[org.cinnamon.theme]
+name='Fluent-round-Dark'
+
+
+[org.cinnamon.desktop.wm.preferences]
+theme-backup='Adwaita'
+theme='Arc-Dark'
+
+
+[org.cinnamon.desktop.interface]
+gtk-theme-backup='Adwaita'
+icon-theme-backup='gnome'
+gtk-theme='Fluent-round-Dark'
+icon-theme='Fluent-dark'
+cursor-theme='Fluent-dark-cursors'
+cursor-size=24
+menus-have-icons=true
+buttons-have-icons=true
+font-name='Sans 11'
+
+
+[org.cinnamon.settings-daemon.plugins.xsettings]
+menus-have-icons=true
+buttons-have-icons=true
