@@ -1,7 +1,7 @@
 
 
 [org.cinnamon.theme]
-name='Fluent-round-Dark'
+name='Orchis-Dark'
 
 
 [org.cinnamon.desktop.wm.preferences]
@@ -12,9 +12,9 @@ theme='Arc-Dark'
 [org.cinnamon.desktop.interface]
 gtk-theme-backup='Adwaita'
 icon-theme-backup='gnome'
-gtk-theme='Fluent-round-Dark'
-icon-theme='Fluent-dark'
-cursor-theme='Fluent-dark-cursors'
+gtk-theme='Orchis-Dark'
+icon-theme='Papirus-Dark'
+cursor-theme='breeze_cursors'
 cursor-size=24
 menus-have-icons=true
 buttons-have-icons=true
